@@ -21,8 +21,14 @@
 <br style='color: green;'>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanarshad24&theme=algolia" alt="arslanarshad24" /></p>
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=arslanarshad24&show_icons=true&count_private=true&theme=algolia&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanarshad24&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=arslanarshad24&theme=algolia&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+<!--   <a href="https://www.buymeacoffee.com/vinitshahdeo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a> -->
+</p>
 <!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=arslanarshad24&label=Profile%20views&color=0e75b6&style=plastic" alt="arslanarshad24" /> 
 </p> -->
@@ -69,10 +75,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
+     [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br style='color: green;'>
-
-
 
 
 ## My Skills![](unicorn.gif)
@@ -148,32 +153,7 @@
 
 <br/>
 
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Arslan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arslanarshad24&show_icons=true&hide=contribs&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arslanarshad24&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Arslan's Stats" height="192px"/>
-  <br/>
-	  
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-  </p>
-<!-- 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/arslanarshad24"><img alt="Arslan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arslanarshad24&custom_title=arslanarshad24s%20Contribution%20Graph&theme=react-dark" /></a> -->
-  <br/>
-
-
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslanarshad24&layout=compact&theme=algolia" alt="arslanarshad24" /></a> </p>
-![](under-construction.gif)
+![](images/under-construction.gif)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arslanarshad24)](https://github.com/arslanarshad24/github-readme-stats)
 
 <div align="center">
@@ -181,8 +161,8 @@
 <br />
 	<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
-<!-- <h1 style='color: green'; align="center" >Thank You for Visting My GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- <p align="center"> -->
+<!-- <h1 style='color: green'; align="center" >Thank You for Visting My GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
+<p align="center">
 	<a href="https://github.com/arslanarshad24"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a> 
 	<a href=" "><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
 	<a href=" "><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> 
@@ -191,4 +171,4 @@
 
 <!-- ArslanArshad24/ArslanArshad24 is a ✨ special ✨ repository because its `README.md`  -->
 Last Edited on: 16/08/2024
-	[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+	
