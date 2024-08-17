@@ -6,16 +6,21 @@
   <br />
 </div>
 
-<div align="center">
+<!--<div align="center">
 <a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/developer.svg"></a> 
-</div>
+</div> -->
 
 <h1 style='color: green;' align="center" >Hi, I am <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=4000&pause=1000&color=F7E400&background=C4DEFF00&center=true&vCenter=true&width=434&height=51&lines=%F0%9F%8F%84%E2%80%8D%E2%99%82%EF%B8%8F+Artificial+Intelligence+STUDENT;%F0%9F%90%8D+PyThon+Developer;%F0%9F%91%B7+Django+Developer;%F0%9F%8D%AA+Web+Scrapper;%F0%9F%93%88+Data+Analyst;%F0%9F%A4%96+Python+AutomaTion" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Polska&size=30&duration=4500&pause=1000&color=27CF57&background=00C6FF00&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=200&lines=%22Code+is+like+a+puzzle+that+needs+solving.+Each+problem+is+a+unique+;challenge+that+requires+creative+thinking++and++strategic+planning.+;++Enjoy+the+process+of+unraveling+complex+issues+and+transforming+them+;+into+elegant+solutions.+Your+journey+as+a+programmer+is+a+continuous;quest+for+problem-solving+excellence.%22" alt="Typing SVG" /></a>
 </p>
+
+<p align="center">
+<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Typing SVG" /></a>
+</p>
+
+
 <br style='color: green;'>
 
 <br style='color: green;'>
@@ -75,7 +80,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-     [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Polska&size=30&duration=4500&pause=1000&color=27CF57&background=00C6FF00&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=200&lines=%22Code+is+like+a+puzzle+that+needs+solving.+Each+problem+is+a+unique+;challenge+that+requires+creative+thinking++and++strategic+planning.+;++Enjoy+the+process+of+unraveling+complex+issues+and+transforming+them+;+into+elegant+solutions.+Your+journey+as+a+programmer+is+a+continuous;quest+for+problem-solving+excellence.%22" alt="Typing SVG" /></a>
 
 <br style='color: green;'>
 
@@ -104,7 +109,7 @@
 <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
 </a>
 </p>
-### 👉 Frontend Development
+👉 Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -140,7 +145,7 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-</p>
+
 
  ### 👉 Operating Systems
  
@@ -153,8 +158,11 @@
 
 <br/>
 
-![](images/under-construction.gif)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arslanarshad24)](https://github.com/arslanarshad24/github-readme-stats)
+
+<div align="center">
+	<a href="#"><img src="images/under-construction.gif"></a>
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=arslanarshad24"></a>
+</div>
 
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
