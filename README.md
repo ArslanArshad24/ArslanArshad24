@@ -177,6 +177,13 @@
 	<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a> 
 </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArslanArshad24/ArslanArshad24/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArslanArshad24/ArslanArshad24/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ArslanArshad24/ArslanArshad24/output/github-snake.svg" />
+</picture>
+
 <!-- ArslanArshad24/ArslanArshad24 is a ✨ special ✨ repository because its `README.md`  -->
 Last Edited on: 16/08/2024
 	
