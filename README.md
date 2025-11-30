@@ -1,17 +1,34 @@
 <h1 style='color: green;' align="center" >Hi, I am <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=4000&pause=1000&color=F7E400&background=C4DEFF00&center=true&vCenter=true&width=434&height=51&lines=%F0%9F%8F%84%E2%80%8D%E2%99%82%EF%B8%8F+Artificial+Intelligence+STUDENT;%F0%9F%90%8D+PyThon+Developer;%F0%9F%91%B7+Django+Developer;%F0%9F%8D%AA+Web+Scrapper;%F0%9F%93%88+Data+Analyst;%F0%9F%A4%96+Python+AutomaTion" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=4000&pause=1000&color=F7E400&background=C4DEFF00&center=true&vCenter=true&width=434&height=51&lines=%F0%9F%92%BB+AI+Automation+Developer;%F0%9F%90%8D+Python+Developer;%F0%9F%91%B7+Django+%26+Flask+Developer;%F0%9F%8D%AA+Web+Scraping+%26+Automation;%F0%9F%93%88+Data+Analyst" alt="Typing SVG" />
+</a>
 </p>
 
 ## :sassy_man:  About me
-- 👋 Hi, I’m @ArslanArshad24
-- 👀 I’m interested in Python, Web Scrapiing , Autoamtion, Django , Flask...
-- 🌱 I’m currently learning Artificial Intelligence...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 👋 Hi, Myself Arslan Arshad  
+
+- 👨‍💻 I’m currently working AS **AI Automation Developer**  
+
+- 👀 I’m passionate about **Python, Web Scraping, Automation, Django, Flask**
+
+- 🌱 I’m currently exploring **Artificial Intelligence & AI Automation**  
+
+- 💞️ I’m looking to collaborate on anything.  
+
+- 😄 Pronouns: He/Him  
+
+- ⚡ Fun fact: I love turning complex processes into **Smart Automated Solutions**
+
+- 📫 How to reach me:
+
+<p align="center">
+	<a href="https://github.com/arslanarshad24"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a> 
+	<a href="https://www.linkedin.com/in/arslan-arshad-ai-engineer/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+	<a href=" "><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> 
+	<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a> 
+</p>
+
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Polska&size=30&duration=4500&pause=1000&color=white&background=00C6FF00&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=200&lines=%22Code+is+like+a+puzzle+that+needs+solving.+Each+problem+is+a+unique+;challenge+that+requires+creative+thinking++and++strategic+planning.+;++Enjoy+the+process+of+unraveling+complex+issues+and+transforming+them+;+into+elegant+solutions.+Your+journey+as+a+programmer+is+a+continuous;quest+for+problem-solving+excellence.%22" alt="Typing SVG" /></a>
 
@@ -19,7 +36,7 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Things I use on a daily basis:
-<p align="left">  
+<p align="center">  
 <a href="https://github.com/arslanarshad24/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=15d8fe">  
  </a>
@@ -35,6 +52,7 @@
 <a href="https://github.com/arslanarshad24/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudio&svgfill=df5c43">  
 </a>
+</br>
 <a href="https://github.com/arslanarshad24/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=youtube&svgfill=cd6799">
 </a>
@@ -127,12 +145,6 @@
 
 <br/>
 
-<p align="center">
-	<a href="https://github.com/arslanarshad24"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a> 
-	<a href=" "><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-	<a href=" "><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> 
-	<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a> 
-</p>
 
 ## 🔥 Streak Stats
 <p align="center">
